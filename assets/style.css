@@ -107,14 +107,15 @@
 	  border-bottom: 2px solid #cccccc;
 	  background-color: #ffffff;
 	  height: 60px;
+	  width:960px
   }
   
   .main-container {
 	  clear: both;
-	  overflow: auto;
+	  overflow:auto;
 	  margin: 0 auto;
 	  height: 600px;
-	  width: 100%;
+	  width: 960px;
 	  background-image: url("assets/image/background.png");
 	  border-bottom: 5px solid #4aaaa5;
   }
@@ -131,14 +132,14 @@
 	  float: left;
 	  position: relative;
 	  top:	-10px;
-	  width: 100%;
+	  width: 80%;
   }
   
   .project-title {
 	  float: left;
 	  position: relative;
 	  top: -50px;
-	  width: 100%;
+	  width: 80%;
 	  height: 30px;
 	  background-color: #4aaaa5;
 	  color: #ffffff;
