@@ -28,8 +28,7 @@
 	  padding-top: 15px;
   }
   
-  h2,
-  h3	{
+  h2		{
 	  color: #4aaaa5;
 	  border-bottom:	3px solid #dddddd;
 	  font-family: 'Georgia', Times, Times New Roman, serif;
@@ -83,7 +82,6 @@
 	  border-width: thin;
   }
   
-  /* Need to use a pseudoclass to control placeholder. */
   input,
   textarea,
   input::-webkit-input-placeholder {
@@ -118,6 +116,7 @@
 	  width: 960px;
 	  background-image: url("assets/image/background.png");
 	  border-bottom: 5px solid #4aaaa5;
+
   }
   
   .box {
@@ -157,7 +156,6 @@
 	  top: -8px;
   }
   
-  /* Button turns dark on hover. */
   .button:hover {
 	  background-color: #374865;
   }
