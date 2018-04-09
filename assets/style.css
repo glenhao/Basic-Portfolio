@@ -115,6 +115,7 @@
 	  margin: 0 auto;
 	  height: 600px;
 	  width: 100%;
+	  background-image: url("assets/image/background.png");
 	  border-bottom: 5px solid #4aaaa5;
   }
   
@@ -125,9 +126,7 @@
 	  margin: 20px;
   }
   
-  /* Rotates project in portfolio on hover. */
 
-  
   .project {
 	  float: left;
 	  position: relative;
