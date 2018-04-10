@@ -68,6 +68,7 @@
  section	{
 	  background-color: #ffffff;
 	  float: left;
+	  margin:0 auto;
 	  color: #777777;
 	  border: 2px solid #dddddd;
   }
@@ -114,7 +115,7 @@
 	  margin: 0 auto;
 	  height: 600px;
 	  width: 960px;
-	  background-image: url("assets/image/background.png");
+	  background-image: url("assets/image/background.jpg");
 	  border-bottom: 5px solid #4aaaa5;
 
   }
@@ -167,7 +168,7 @@
 	  text-align: left;
 	  width: 650px;
 	  top: 30px;
-	  margin-left: 125px;
+	  margin-left: 200px;
 	  margin-bottom: 50px;
   }
   
